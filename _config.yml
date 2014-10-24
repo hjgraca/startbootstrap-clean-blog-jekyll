@@ -2,7 +2,7 @@
 title: Coding After Hours
 email: henrique.j.graca@gmail.com
 description: "ramblings of an enthusiastic Web developer"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+#baseurl: ""
 url: "http://hjgraca.github.io/"
 twitter_username: hjgraca
 github_username:  hjgraca
